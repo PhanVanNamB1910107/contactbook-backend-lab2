@@ -1,0 +1,27 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanVanNamB1910107/contactbook-backend.git"
+  },
+  "author": "Phan Van Nam B1910107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanVanNamB1910107/contactbook-backend/issues"
+  },
+  "homepage": "https://github.com/PhanVanNamB1910107/contactbook-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
